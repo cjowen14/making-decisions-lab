@@ -96,6 +96,9 @@ for (let i = 0; i < 10; i++){
 */
 
 //CODE HERE
+for (let i = 0; i < 10; i++){
+  console.log(`log ${i + 1}`);
+}
 
 
 ////////// PROBLEM 7 //////////
